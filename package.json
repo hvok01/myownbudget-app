@@ -1,0 +1,29 @@
+{
+  "name": "money-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.4.1",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.9",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.3.4",
+    "next": "13.4.9",
+    "nodemon": "^3.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.1.6"
+  }
+}
